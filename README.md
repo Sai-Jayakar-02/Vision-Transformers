@@ -1,5 +1,5 @@
 # Vision-Transformers
-ABSTRACT:
+
 The introduction of Vision Transformer (ViT), a revolutionary method for image categorization that deviates from conventional convolutional neural networks (CNNs), has completely changed the field of computer vision. The goal of this internship project is to further our understanding of ViT transformers and their enormous potential for picture categorization.
 The primary aim is to thoroughly explain the complexities of ViT by analysing its processes, architecture, and fundamental principles. With a thorough analysis of the literature and real-world application, this study seeks to clarify the special qualities of ViT that set it apart from traditional CNNs.
 The technique includes applying ViT to image classification tasks and measuring its performance with CIFAR datasets. Thorough testing entails optimising hyperparameters, investigating transfer learning techniques, and contrasting ViT's performance with cutting-edge CNNs. The experiment highlights how ViT's attention maps are interpretable, offering insights into its decision-making procedures.
